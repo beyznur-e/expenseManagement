@@ -16,7 +16,7 @@ The Expense Management System is a Spring Boot-based application designed to man
   - Spring Data JPA
   - Java
 - **Database:**
-  - H2 (default, easily replaceable with other RDBMS like PostgreSQL, MySQL, etc.)
+  - PostgreSQL
 - **Dependencies:**
   - Spring Web
   - Spring Data JPA
